@@ -1,0 +1,22 @@
+h2, h5, p {
+  font-size: 19px;
+  font-family: "FreightSansPro", Helvetica, sans-serif;
+  line-height: 29px;
+  font-weight: normal;
+}
+
+.ask {
+  border-left: 3px solid darkgray;
+  padding-left: 10px;
+}
+
+.answer {
+  background-color: lightyellow;
+  border-left: 3px solid darkgray;
+  padding-left: 10px;
+}
+
+.container {
+  margin: 15px;
+
+}
